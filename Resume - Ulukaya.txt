@@ -1,0 +1,71 @@
+﻿Ibrahim Ulukaya
+New York, NY | (917) 355-5334 | ulukaya@gmail.com | linkedin.com/in/ibrahimulukaya
+HEAD OF ENGINEERING 
+Accomplished engineering leader with over 15 years of experience driving developer relations, enhancing developer experience, and driving AI platform adoption. Achieved a 25% YoY increase in platform adoption and a 50% increase in developer engagement by scaling AI platforms and fostering thriving developer communities. Expertise in translating developer needs into product innovations, leading cross-functional teams, and delivering exceptional developer experiences through APIs, SDKs, and bespoke LLM solutions.
+WORK EXPERIENCE
+Google, New York, NY | 01/2022 - Present
+Head of Engineering for AI Platforms: Developer Relations and Experience
+Led engineering team to achieve a 25% year-over-year increase in AI platform adoption by driving frontier AI initiatives, enhancing developer productivity.
+Drove a 50% increase in developer engagement through strategic AI model and API initiatives, expanding AI/ML adoption across global developer ecosystems.
+Boosted developer productivity by 40% by spearheading AI-powered tools, SDKs, AI governance, and agentic automation workflows.
+Grew AI open-source contributions by 40%, leading innovations in AI agents, Retrieval-Augmented Generation (RAG) and multimodal AI on cloud platforms.
+Expanded developer community reach by 35% through technical blogs, YouTube tutorials, and speaking at global AI conferences (e.g., Google I/O, Next).
+Improved developer satisfaction (CSAT) scores by 30% by refining KPIs and establishing robust feedback loops with product teams.
+Mentored 6+ engineers into senior leadership roles, fostering a developer-centric culture.
+
+
+Google, New York, NY | 08/2020 - 01/2022
+Staff Developer Relations Engineer, Cloud ML
+Increased Firebase ML adoption by 35% through AI/ML pipeline optimizations and targeted developer outreach.
+Led AI/ML workshops for 100+ enterprise clients, enhancing AI/BigQuery integrations and driving product adoption.
+Drove engagement from 2.5M+ monthly active users via go-to-market strategies for AI tools and platforms.
+Boosted developer participation by 30% through strengthened open-source AI collaborations.
+
+
+Google, New York, NY | 01/2015 - 08/2020
+Senior Developer Experience Engineer, Firebase ML
+Developed and optimized Firebase ML SDKs, enabling 120K+ developers to build AI-powered applications.
+Boosted Firebase ML adoption by 35% through developer advocacy campaigns and community-building initiatives.
+Enhanced observability for 250K+ developers, reducing AI model error detection time by 20%.
+
+
+Google, New York, NY | 01/2013 - 01/2015,
+Tech Lead, YouTube Developer Platforms Engineer
+Directed migration to YouTube API v3, transforming performance for billions of devices.
+Enabled 27,000+ weekly live events by launching YouTube Live & Subscription APIs.
+Expanded API usage by 20% and revamped partner integrations by 15% through platform engineering.
+
+
+Adconion Media Group, New York, NY | 05/2011 - 01/2013
+Senior Big Data Software Engineer
+Optimized campaign efficiency by 25% and reduced latency by 30% with AI-driven ad targeting solutions.
+
+
+OpenLink Financial, New York, NY | 07/2010 - 04/2011
+Software Developer
+Enhanced prediction accuracy and reduced processing times by 7% with AI-powered financial risk models.
+Boomset Inc, New York, NY | 02/2009 - 04/2011
+Co-Founder, CTO
+Engineered an AI-driven event management platform with 99.9% uptime, scaling to thousands of users.
+
+
+EDUCATION
+MS in Computer Engineering, Columbia University, New York, NY | 08/2008 - 01/2010 
+BS in Computer Engineering, Bogazici University, Turkey | 08/2003 - 06/2008
+CERTIFICATIONS
+Generative AI Engineering, IBM | 01/2024 - 12/2024
+Prompt Engineering, Vanderbilt University | 01/2023 - 12/2023
+Machine Learning, IBM | 01/2022 - 12/2022
+
+
+SKILLS
+Developer Relations
+Community Building, Advocacy, Content Strategy, Event Management, Developer Support, Go-to-Market Strategy, Technical Evangelism
+AI & Machine Learning:
+LLMs, TensorFlow, PyTorch, Hugging Face, LangChain, RAG, Multimodal AI, Model Optimization, AI Pipelines, Model Deployment
+Cloud & DevOps:
+AWS, GCP, Kubernetes, Docker, Hadoop, ETL Pipelines, CI/CD, MLOps, Scalable AI Infrastructure
+Programming:
+Python, Java, Kotlin, C++, Swift, SQL, NoSQL, Node.js, R, Flutter, Django, React, Terraform, GraphQL
+Leadership & Management:
+Team Building, Mentoring, Strategic Planning, Budget Management, Stakeholder Management, Public Speaking, Open Source Governance
